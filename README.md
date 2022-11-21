@@ -22,3 +22,8 @@ Para executá-la é muito simples, basta rodar os seguintes comandos:
   $ npm install serve -D # instalando o serve como dependência de desenvolvimento
   $ npx serve . # rodando o servidor node
 ```
+<br>
+
+![print1](https://user-images.githubusercontent.com/113216494/203138914-95f93fe6-3fad-492f-b1a2-13707e572d5e.png) <br>
+
+![print2](https://user-images.githubusercontent.com/113216494/203139234-9866d83c-2f31-4163-9028-8cc0bc708d2d.png) <br>
