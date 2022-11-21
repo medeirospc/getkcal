@@ -10,7 +10,7 @@ Sinta-se a vontade caso queira rodar este projeto direto no seu browser clicando
 
 Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, após isso, clonar este repositório:
 ```sh
-  $ git clone https://github.com/maateusilva/getkcal.git
+  $ git clone https://github.com/gustamtz/getkcal.git
 ```
 
 ## Executando a aplicação
