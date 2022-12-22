@@ -1,4 +1,4 @@
-# Getkcal
+# Getkcal.
 
 ![print1](https://user-images.githubusercontent.com/113216494/203138914-95f93fe6-3fad-492f-b1a2-13707e572d5e.png) <br>
 
