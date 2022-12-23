@@ -33,4 +33,4 @@ Para executá-la é muito simples, basta rodar os seguintes comandos:
 
 <br> <br>
 
-  Por <a href="https://github.com/gustamtz">gustamtz</a>
+  Por: <a href="https://github.com/gustamtz">gustamtz</a>
