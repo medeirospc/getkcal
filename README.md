@@ -1,6 +1,6 @@
 # Getkcal.
 
-![print1](https://user-images.githubusercontent.com/113216494/203138914-95f93fe6-3fad-492f-b1a2-13707e572d5e.png) <br>
+https://user-images.githubusercontent.com/113216494/209449254-0d16a1d5-ca79-4b75-bf93-6a61b9571339.mp4
 
 <br>
 
