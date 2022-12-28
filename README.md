@@ -9,7 +9,7 @@ Getkcal é uma aplicação que utiliza cálculos tmb (taxa metabólica basal) e 
 
 <br>
 
-# Como usar
+# Como instalar
 Este projeto não precisa de nenhuma depedência para funcionar, porém utilizei o pacote `serve` para roda-lo no browser através de um servidor node.
 
 Sinta-se a vontade caso queira rodar este projeto direto no seu browser clicando com o botão direito no arquivo `index.html` e, em seguida, selecionando a opção `Abrir Com` e selecionando o navegador de sua preferência.
