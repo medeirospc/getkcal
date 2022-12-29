@@ -35,4 +35,3 @@ Para executá-la é muito simples, basta rodar os seguintes comandos no terminal
 
   Por: <a href="https://github.com/gustamtz">gustamtz</a>
   
-  Créditos: @imateusilva
