@@ -23,7 +23,7 @@ Você precisará ter o [NodeJS](https://nodejs.org) instalado na sua máquina, a
 
 # Executando a aplicação
 
-Para executá-la é muito simples, basta rodar os seguintes comandos:
+Para executá-la é muito simples, basta rodar os seguintes comandos no terminal do VS Code:
 ```sh
   $ cd getkcal/starterkit # para acessar a pasta clonada do git
   $ npm init -y # inicializando o package.json
