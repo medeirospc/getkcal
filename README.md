@@ -33,10 +33,10 @@ https://user-images.githubusercontent.com/113216494/210269996-1fc73f01-0957-40d3
 
 2. Para executá-la é muito simples, basta rodar os seguintes comandos no terminal do VS Code:
 ```sh
-  $ cd getkcal # acessando a pasta clonada do git.
+  $ cd getkcal # acessando a pasta clonada.
   $ npm init -y # inicializando o package.json.
   $ npm install serve -D # instalando o serve como dependência de desenvolvimento.
-  $ npx serve . # rodando o servidor node.
+  $ npx serve . # rodando o servidor node; dê double click no localhost do terminal.
 ```
 
 <br> 
